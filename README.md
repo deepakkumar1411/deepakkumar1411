@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Computer Engineering Student<br> I’m currently learning Cloud Computing<br>
 
 
