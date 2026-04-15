@@ -1,5 +1,5 @@
-#  About Me:
-Computer Engineering Student<br> I’m currently learning Cloud Computing<br>
+#  Deepak Kumar
+Computer Engineer
 
 
 ## 🌐 Socials:
