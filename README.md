@@ -1,15 +1,129 @@
-# Hello, I am Deepak Kumar
-Computer Engineer
+<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h3 align="center">🚀 Aspiring Software Developer | AI • Machine Learning • Full Stack</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lldeepak.kumarll) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;AI+%7C+Backend+%7C+Full+Stack&center=true&width=500&height=45">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deepakkumar1411&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 🎓 Final Year Computer Science Student  
+- 🤖 Interested in **Machine Learning & AI-based applications**  
+- 🔧 Building real-world projects with practical use cases  
+   
+
+- 🌱 Learning: Machine Learning, System Design, APIs  
+
+---
+
+## ⚡ Tech Stack
+
+### 🧩 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 📊 Data & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+</p>
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-grey?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend & Development
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software%20Development-lightgrey?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,git,github,postman" />
+  <img src="https://img.shields.io/badge/Database%20Management-darkblue?style=for-the-badge"/>
+</p>
+
+### 🌐 Domain Knowledge
+<p>
+  <img src="https://img.shields.io/badge/Network%20Traffic%20Analysis-red?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 AI Code Review Tool
+- 🤖 AI-powered GitHub PR analysis  
+- ⚡ Automated feedback using LLMs  
+
+### 🔹 Deep Packet Inspection System
+- 🔍 Detects suspicious network packets  
+- 📊 Traffic classification  
+
+### 🔹 Q&A based RAG System
+- 📚 Retrieval-Augmented Generation pipeline  
+- 🔍 Semantic search + context-based answering  
+- ⚡ Built using embeddings, vector search & LLMs  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/deepak-kumar1411"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:deepakkumarbks44@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 🎯 Goals
+
+- Build AI-powered real-world applications  
+- Strengthen Machine Learning fundamentals  
+- Master system design  
+
+---
+
+## 👀 Profile Views
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" /> 
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy combining Machine Learning with real-world applications.
