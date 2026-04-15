@@ -85,18 +85,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakkumar1411&theme=tokyonight" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakkumar1411&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepakkumar1411&theme=tokyonight&include_all_commits=true" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
