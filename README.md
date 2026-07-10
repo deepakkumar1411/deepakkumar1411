@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">🚀 Aspiring Software Developer | AI • Machine Learning • Full Stack</h3>| Data Analyst
+<h3 align="center">🚀 Aspiring Software Developer | AI • Machine Learning • Full Stack | Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;AI+%7C+Backend+%7C+Full+Stack&center=true&width=500&height=45">
