@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">🚀 Aspiring Software Developer | AI • Machine Learning • Full Stack</h3>
+<h3 align="center">🚀 Aspiring Software Developer | AI • Machine Learning • Full Stack</h3>| Data Analyst
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;AI+%7C+Backend+%7C+Full+Stack&center=true&width=500&height=45">
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final Year Computer Science Student  
+- 🎓 Bachelors of Engineering in Computer Engineering  
 - 🤖 Interested in **Machine Learning & AI-based applications**  
 - 🔧 Building real-world projects with practical use cases  
    
