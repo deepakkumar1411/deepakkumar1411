@@ -78,7 +78,22 @@
 ### 🔹 Q&A based RAG System
 - 📚 Retrieval-Augmented Generation pipeline  
 - 🔍 Semantic search + context-based answering  
-- ⚡ Built using embeddings, vector search & LLMs  
+- ⚡ Built using embeddings, vector search & LLMs
+
+### 🔹 SQL Business Reporting System
+- 🗄️ End-to-end business reporting using MySQL
+- 📈 ETL workflow with Views, CTEs & Window Functions
+- 📊 Power BI dashboard connected to MySQL
+
+### 🔹 Banking Customer Analytics Dashboard
+- 🏦 Interactive Power BI dashboard for banking analytics
+- 👥 Customer demographics, credit score & financial insights
+- 📊 KPI reporting with interactive filters and DAX
+
+### 🔹 Sales Performance Dashboard
+- 📈 Interactive Power BI sales analytics dashboard
+- 🌍 Product, customer & regional performance analysis
+- 📊 Executive KPIs with dynamic filtering and DAX
 
 ---
 
