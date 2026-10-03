@@ -97,11 +97,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakkumar1411&theme=tokyonight&v=2" />
-</p>
 ---
 
 
